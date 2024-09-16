@@ -1,12 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
-* example
-* example
-* example
-* example
+# Riley Gross
+## Lab 02
+## 09/16/2024
+## No sources
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* none
