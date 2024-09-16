@@ -1,6 +1,7 @@
 # Riley Gross
 ## Lab 02
 ## 09/16/2024
-## No sources
+## Sorces
+* none
 ## Project Quirks/ Things that don't work
 * none
